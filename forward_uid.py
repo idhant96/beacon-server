@@ -2,7 +2,6 @@ from flask import Flask
 import requests
 import time
 import atexit
-from apscheduler.schedulers.background import BackgroundScheduler
 
 
 
