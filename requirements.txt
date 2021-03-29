@@ -29,7 +29,7 @@ pickleshare==0.7.4
 prompt-toolkit==1.0.15
 pyasn1==0.4.2
 pycrypto==2.6.1
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.26.1
 pyodbc==4.0.17
 pysqlite==2.7.0
